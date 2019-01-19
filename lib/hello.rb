@@ -4,7 +4,7 @@ i = 0
     while i < names.length
       i = i + 1
     end
-    puts i
+    names
 end
 
 # call your method here!
